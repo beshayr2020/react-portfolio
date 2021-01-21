@@ -1,0 +1,13 @@
+https://github.com/facebook/create-react-app
+
+remove build - created when i am using the test run
+remove node module installed using npm i 
+
+Very good work on this assignment, Beshayr! I like the layout style of your portfolio site. Several things need to be improved about this assignment. Your Github profile pinned projects do not have README containing project descriptions, screenshots, and links to deployed applications. Your GitHub profile does not contain a real photo, bio, location, email, and link to the deployed portfolio. Maybe also follow more classmates on GitHub. The resume link on the deployment URL not working. The overall flow of your portfolio site worked pretty well, great work!
+Thank you for your submission Beshayr!
+
+While your Google doc gives a good overview of the application, it doesn't touch on any of the files in the public folder. Also, while the function of the other js files is described, there isn't much explanation as to how each one accomplishes its stated function.
+
+Keep up the hard work!
+
+21: Google Books React Search
